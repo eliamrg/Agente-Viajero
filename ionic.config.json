@@ -1,0 +1,7 @@
+{
+  "name": "Agente-Viajero",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
